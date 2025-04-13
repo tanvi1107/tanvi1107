@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tanvi1107
 - 👀 I’m interested in web develpoing
-- 🌱 I’m currently learning JS
--  language
+- 🌱 I’m currently learning JS language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through linkldn
 - 😄 Pronouns: she
