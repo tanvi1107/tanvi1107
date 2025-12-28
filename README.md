@@ -69,13 +69,22 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanvi1107&show_icons=true&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=tanvi1107&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Tanvi's GitHub stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvi1107&theme=tokyonight"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=tanvi1107&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
+
 
 ---
 
