@@ -6,7 +6,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:Tanvi19062005@gmail.com">
+  <a href="mailto:tanvi19062005@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
   </a>
 </p>
