@@ -67,33 +67,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=tanvi1107&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Tanvi's GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=tanvi1107&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-
----
-
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvi1107&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ⭐ *Thanks for visiting my profile! Feel free to connect with me.*
