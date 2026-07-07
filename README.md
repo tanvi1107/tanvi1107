@@ -139,6 +139,7 @@ A modern responsive landing page focused on clean UI and engaging user experienc
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvi1107&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
+
 ---
 
 ## 🌐 Connect With Me
