@@ -129,23 +129,16 @@ A modern responsive landing page focused on clean UI and engaging user experienc
 🏆 Python Programming — Edu.Net Foundation
 
 ---
-
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tanvi1107&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=tanvi1107&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanvi1107&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://streak-stats.demolab.com?user=tanvi1107&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvi1107&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvi1107&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
